@@ -21,6 +21,7 @@ namespace GestionEtudiants.Forms
             if (lstEtudiants.SelectedIndex > -1)
             {
                 // TODO: Ouvre la fenêtre de modification d'un étudiant
+                //bidon
             }
         }
 
